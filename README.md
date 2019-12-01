@@ -1,4 +1,4 @@
-# pycalc
+# PyCalc
 Calculator built with Python
 ---
 ### Developer:
